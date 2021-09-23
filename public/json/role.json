@@ -1,0 +1,8 @@
+[
+	{"ROLE":"ADMIN", "ROLE_NAME":"<b>Admin</b> - All", "AKSES":["BERITA","AGENDA","OTHER"]},
+	{"ROLE":"KABID", "ROLE_NAME":"<b>Kabid Proses</b> - Berita, Agenda", "AKSES":["BERITA","AGENDA"]},
+	{"ROLE":"KESISWAAN", "ROLE_NAME":"<b>Kesiswaan</b> - Berita, Agenda", "AKSES":["BERITA","AGENDA"]},
+	{"ROLE":"MARKETING", "ROLE_NAME":"<b>Marketing Sekolah</b> - Berita", "AKSES":["BERITA"]},
+	{"ROLE":"BKI", "ROLE_NAME":"<b>Bursa Kerja Industri (BKI)</b> - Berita", "AKSES":["BERITA"]},
+	{"ROLE":"DEPARTEMEN", "ROLE_NAME":"<b>Admin Departemen</b> - Berita", "AKSES":["BERITA"]}
+]

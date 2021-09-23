@@ -1,0 +1,12 @@
+Upload berita : 
+	Marketing sekolah, 
+	kesiswaan, 
+	BKI, 
+	admin departemen, 
+	admin kabid proses
+
+Agenda : 
+	Kabid Proses, 
+	Kesiswaan
+
+approve : web admin
